@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sanjanayadav07&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanayadav07" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjanayadav07" alt="sanjanayadav07" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on **Real Chat Application**  
 - 🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM**  
 - 🤝 I’m looking for help with **AI/ML PROJECT**  
@@ -83,7 +77,11 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjanayadav07&theme=dracula&no-frame=true&margin-w=15" />
+</p>
 
-### 🐍 Watch my contributions get eaten by a snake!
+### 🕹️ Contribution Snake
 ![snake gif](https://github.com/Sanjanayadav07/Sanjanayadav07/blob/output/github-contribution-grid-snake.svg)
 
