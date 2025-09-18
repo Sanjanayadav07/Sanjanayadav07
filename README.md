@@ -78,10 +78,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanayadav07&show_icons=true&locale=en&cache_seconds=86400&token=sanjanayadav07" alt="sanjanayadav07" />
 </p>
 
-### 🐍 Watch my contributions get eaten by a snake!
-![snake gif](https://github.com/Sanjanayadav07/Sanjanayadav07/blob/output/github-contribution-grid-snake.svg)
-
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanayadav07&cache_seconds=86400&token=YOUR_TOKEN_HERE" alt="sanjanayadav07" />
 </p>
