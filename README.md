@@ -77,10 +77,12 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjanayadav07&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjanayadav07&theme=dracula&no-frame=true&margin-w=15" />
 </p>
+
 
 ### 🕹️ Contribution Snake
 ![snake gif](https://github.com/Sanjanayadav07/Sanjanayadav07/blob/output/github-contribution-grid-snake.svg)
